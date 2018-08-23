@@ -10,7 +10,6 @@
 [**Crie Issues & Faça pull requests!**](/CONTRIBUTING.md)
 
 Se você tem alguma ideia para o bot, como uma lista de saudações, informar se vai chover hoje, crie uma issue e bora discutir!
-_...ok, este bot ainda é meio bobo, mas você pode ajudar ele a crescer ;)_
 
 ## Sobre o Oxenti-PE
 O OxenTI-PE é uma comunidade que nasceu da necessidade de reunir todos desenvolvedores de Pernambuco e as comunidades PHP PE, AVATECH, FEMUG, GEEK NIGHT, CHATBOT PE, PUG PE e WOMEM WHO CODE.
